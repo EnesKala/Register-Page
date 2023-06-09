@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../KullaniciSayfası"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Register-Page"
+	}
+}
